@@ -1,14 +1,14 @@
 {
-  "name": "node-insta-web-api-fast",
-  "version": "1.0.0",
+  "name": "fast-insta-api",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohamad-mahdi-heidari/node-insta-web-api"
+    "url": "https://github.com/mohamad-mahdi-heidari/fast-insta-api.git"
   },
   "contributors": [
-    "Hamdan Ibrahim ihamdan990@gmail.com"
+    "mm4heidary@gmail.com"
   ],
   "directories": {
     "lib": "lib"

@@ -11,7 +11,7 @@ Send DM using client from [dilame/instagram-private-api](https://github.com/dila
 ## Install
 
 ```bash
-npm install node-insta-web-api
+npm install fast-insta-api
 ```
 
 ## Usage
