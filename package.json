@@ -1,0 +1,36 @@
+{
+  "name": "node-insta-web-api-fast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamad-mahdi-heidari/node-insta-web-api"
+  },
+  "contributors": [
+    "Hamdan Ibrahim ihamdan990@gmail.com"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "instagram api",
+    "instagram web api",
+    "instagram private api",
+    "node insta web api"
+  ],
+  "author": "M1n007",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-private-api": "^1.43.3",
+    "is-url": "^1.2.4",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "useragent-from-seed": "^1.0.1"
+  }
+}
